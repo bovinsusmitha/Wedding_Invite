@@ -180,9 +180,7 @@ section{
   background:rgba(255,255,255,0.06);backdrop-filter:blur(6px);
   position:relative;box-shadow:0 12px 26px rgba(0,0,0,.22);
 }
-.reception-card{
-  background:rgba(122, 75, 79, 0.9);
-  border-color:rgba(243, 217, 177, 0.42);
+
   
 }
 
@@ -206,8 +204,8 @@ section{
   border-color:rgba(243, 217, 177, 0.9);
   color:var(--gold-soft);
 }
-.event-card h3{font-family:'Cormorant Garamond',serif;font-size:1.45rem;color:var(--gold-soft);margin:.8rem 0 .5rem;}
-.event-date{font-size:.85rem;color:var(--ivory);opacity:.86;margin-bottom:.3rem;}
+.event-card h3{font-family:'Cormorant Garamond',serif;font-size:1.8rem;color:var(--gold-soft);margin:.8rem 0 .5rem;}
+.event-date{font-size:.97rem;color:var(--ivory);opacity:.86;margin-bottom:.3rem;font-weight:700}
 .event-venue{font-size:.85rem;color:var(--ivory);opacity:.76;margin-bottom:1.1rem;line-height:1.5;}
 .reception-card h3,
 .reception-card .event-date{
